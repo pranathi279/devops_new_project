@@ -3,3 +3,9 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+boolean isRaining = true;
+
+if (isRaining) {
+  System.out.println("Bring an umbrella!");
+}
